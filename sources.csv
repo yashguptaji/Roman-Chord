@@ -1,0 +1,9 @@
+﻿file,what it supports,link (line numbers count the header as line 1)
+chordonomicon_v2_batch_0..6.csv,Chord charts (Chordonomicon v2 mirror); line = chordonomicon_line,https://github.com/mcmanus-git/chordonomicon/tree/main/data
+muse_v3.csv,Human mood tags (Last.fm) for MuSe songs,https://github.com/singla-aryan/music-project-data/blob/main/muse_v3.csv
+dataset_spotify.csv,Spotify valence/energy + genre seeds (114k tracks),https://github.com/filippo2206/Spotify_Tracks_Genres_analisys_and_predictions/blob/main/dataset_spotify.csv
+data.csv,"Spotify valence/energy (170k tracks, 1921-2020)",https://github.com/jesperhemmingsson/Spotify-EDA/blob/master/data/data.csv
+SpotifyFeatures.csv,Spotify valence/energy (232k tracks),https://github.com/NadirovaMehriban/Music-Recommendation/blob/main/data/SpotifyFeatures.csv
+spotify_songs.csv,Spotify valence/energy (TidyTuesday 2020),https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-01-21/spotify_songs.csv
+audio_features.csv,"Spotify valence/energy (TidyTuesday 2021, Billboard)",https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-09-14/audio_features.csv
+dataset.csv (Hindi songs),Hindi song categories + Spotify features,https://github.com/kanha165/music-recommendation-system--using-k-means-clustering/blob/main/dataset.csv
